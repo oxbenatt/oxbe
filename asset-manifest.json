@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projectwe-web/static/css/main.523f09c5.chunk.css",
+    "main.js": "/projectwe-web/static/js/main.c8dd1340.chunk.js",
+    "main.js.map": "/projectwe-web/static/js/main.c8dd1340.chunk.js.map",
+    "runtime-main.js": "/projectwe-web/static/js/runtime-main.60d3249e.js",
+    "runtime-main.js.map": "/projectwe-web/static/js/runtime-main.60d3249e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/projectwe-web/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c1ef3d34.chunk.js": "/projectwe-web/static/js/2.c1ef3d34.chunk.js",
+    "static/js/2.c1ef3d34.chunk.js.map": "/projectwe-web/static/js/2.c1ef3d34.chunk.js.map",
+    "index.html": "/projectwe-web/index.html",
+    "precache-manifest.d900bb8fcb6b4ec6f33a53a3f9fbcfe8.js": "/projectwe-web/precache-manifest.d900bb8fcb6b4ec6f33a53a3f9fbcfe8.js",
+    "service-worker.js": "/projectwe-web/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/projectwe-web/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/projectwe-web/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.c1ef3d34.chunk.js.LICENSE.txt": "/projectwe-web/static/js/2.c1ef3d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d3249e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c1ef3d34.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.c8dd1340.chunk.js"
+  ]
+}
